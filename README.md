@@ -2,13 +2,13 @@
     Kenya(1991-2022)
 
 # Table of Contents
-  [Introduction](#Introduction)
-  [Visuals](#Visuals)
-      [Observations](#Observations)
-  [Regression Analysis](#Regression_Analysis)
-      [Findings](#Findings)
-  [Recommendations](#Recommendations)
-  [Conclusion](#Conclusion)
+  -[Introduction](#Introduction)
+  -[Visuals](#Visuals)
+      -[Observations](#Observations)
+  -[Regression Analysis](#Regression_Analysis)
+      -[Findings](#Findings)
+  -[Recommendations](#Recommendations)
+  -[Conclusion](#Conclusion)
   
 
 
