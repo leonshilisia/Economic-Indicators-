@@ -10,7 +10,7 @@
 This study aims to explore the key economic indicators influencing Kenya’s GDP. The analysis covers variables such as Government Expenditure, Foreign Direct Investments (FDI), Interest Rates, Inflation, Total Debt Service, Population, and Unemployment within the period 1991 to 2022. By examining these factors, we seek to understand their impact on GDP and provide actionable recommendations for enhancing economic stability and growth. A;; data was sourced from The World Bank.
 
 # Visuals
-![Image](Images/Page 1.jpg)
+![Image_2](Images/Page_1.jpg)
 ![Image_2](Images/Page2.jpg)
 ![Image_3](Images/Page3.jpg)
 
