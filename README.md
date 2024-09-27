@@ -32,7 +32,7 @@ Total Debt service has been gradually increasing annually to its highest peak of
 Population in Kenya has been growing annually at an average 2.2% since 1991 to    54,027,487 in 2022.
 Kenya had an unemployment rate of 2.8% on average from 1991 to 2016.  This average increased to 5$ from 2017 to 2022.
 
-# Regression Analysis
+# Regression_Analysis
 ![Regression](Images/Regressuom.jpg)
 # Findings 
 •	The independent variables collectively explain 99.96% of variation in GDP.
