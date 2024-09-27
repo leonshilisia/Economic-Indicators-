@@ -3,6 +3,13 @@
 
 # Table of Contents
   [Introduction](#Introduction)
+  [Visuals](#Visuals)
+      [Observations](#Observations)
+  [Regression Analysis](#Regression_Analysis)
+      [Findings](#Findings)
+  [Recommendations](#Recommendations)
+  [Conclusion](#Conclusion)
+  
 
 
 
@@ -10,9 +17,10 @@
 This study aims to explore the key economic indicators influencing Kenya’s GDP. The analysis covers variables such as Government Expenditure, Foreign Direct Investments (FDI), Interest Rates, Inflation, Total Debt Service, Population, and Unemployment within the period 1991 to 2022. By examining these factors, we seek to understand their impact on GDP and provide actionable recommendations for enhancing economic stability and growth. A;; data was sourced from The World Bank.
 
 # Visuals
-![Image_2](Images/Page_1.jpg)
+![Image_2](Images/Page1.jpg)
 ![Image_2](Images/Page2.jpg)
 ![Image_3](Images/Page3.jpg)
+
 
 # Observations 
 GDP has been increasing over the years with 2000 being the last time it declined (-1. 5%).It is important to note that GDP has been increasing at a decreasing rate over the last 5 Years.
@@ -53,7 +61,7 @@ b.	Decrease reliance on external debt through improved productivity and broadeni
 a.	Job creation Programs. Target sectors with high employment potential such as manufacturing technology and service industry. 
 b.	Skills Development. Invest in education and vocational training to provide relevant training in line with the evolving job market.
 
-$ Conclusion
+# Conclusion
 The study reveals that Government Expenditure, Total Debt Service, and Population significantly impact Kenya’s GDP. While Government Expenditure positively influences GDP, Total Debt Service and Population have negative effects. Other variables like FDI and Interest Rates also show negative impacts, though statistically insignificant. To foster economic growth, it is crucial to diversify economic activities, optimize government spending, stabilize FDI, manage interest rates, control inflation, manage debt levels, and address unemployment through targeted job creation and skills development programs. Implementing these recommendations can help Kenya achieve sustainable economic growth and stability.
 
 
